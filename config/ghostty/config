@@ -1,0 +1,10 @@
+theme = catppuccin-mocha
+font-family = CaskaydiaCove Nerd Font Mono
+
+font-size = 10
+
+
+background-opacity = 0.9
+
+
+resize-overlay = never
