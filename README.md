@@ -5,8 +5,7 @@ This repository contains my personal dotfiles setup, primarily used for configur
 > ⚠️ Note: This repo is private and not intended for redistribution or public use.
 
 ## Credits & Inspiration
-
-Some configurations in this repo were originally adapted from:
+most configurations in this repo were originally adapted from:
 
 - [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles)
 - [YouTube Video: Setup Guide](https://www.youtube.com/watch?v=omhJMH9lPPc&t=104s)
